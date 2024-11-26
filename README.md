@@ -1,10 +1,9 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rohit and I'm a Data Graduate from the University of Exeter</h2>
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1udQ9hloYcvQuUG8S9BB31smkmWve8y8-/view?usp=sharing"  />
-
 ###
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
