@@ -3,9 +3,9 @@
 # 💫About Me :
 🎓 Data Science Graduate | Machine Learning Enthusiast
 
-🧠 Skilled in Python, R, and advanced machine learning techniques.
+🧠 Skilled in Python, R, SQL and advanced machine learning techniques.
 
-📊 Experienced in data analysis, visualization, and delivering data-driven solutions.
+📊 Experienced in data analysis, machine learning, statistical modelling and delivering data-driven solutions.
 
 💡 On a mission to analyze, innovate, and inspire through data.
 
